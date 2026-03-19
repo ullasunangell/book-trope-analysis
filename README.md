@@ -17,7 +17,7 @@ The project was built in Python using pandas, matplotlib, and seaborn, with anal
 - Compare theme frequency and average ratings across detected themes
 
 ## Dataset
-
+https://www.kaggle.com/datasets/ayushiiisahu/goodreads-books-dataset
 The project uses a Goodreads books dataset sourced from Kaggle. Relevant fields retained for analysis include:
 
 - title
